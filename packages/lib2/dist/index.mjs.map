@@ -1,0 +1,1 @@
+{"version":3,"file":"index.mjs","sources":["../src/components/Lib2.js"],"sourcesContent":["import React from 'react'\n\nconst Lib2 = () => {\n  return (\n    <div>\n      Lib2 component\n    </div>\n  )\n}\n\nexport default Lib2\n"],"names":["const","Lib2","React"],"mappings":"qBAEAA,IAAMC,oBAEFC"}

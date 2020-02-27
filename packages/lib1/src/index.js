@@ -1,0 +1,1 @@
+export {default as Lib1} from './components/Lib1'

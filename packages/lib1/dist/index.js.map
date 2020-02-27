@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sources":["../src/components/Lib1.js"],"sourcesContent":["import React from 'react'\n\nconst Lib2 = () => {\n  return (\n    <div>\n      Lib2 component\n    </div>\n  )\n}\n\nexport default Lib2\n"],"names":["React"],"mappings":"2GAIIA"}
